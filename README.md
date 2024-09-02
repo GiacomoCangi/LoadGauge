@@ -1,2 +1,2 @@
 # LoadGauge
-A Python package to perform load reconstruction through experimental strain measurements.
+A Python package for performing the loads reconstruction through experimental strain measurements.
